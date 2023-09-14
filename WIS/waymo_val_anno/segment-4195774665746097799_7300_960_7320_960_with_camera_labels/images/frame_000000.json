@@ -1,0 +1,1 @@
+{"frame_id": "frame_000000.png", "data": {"lane": [], "points": [], "bbox": [{"data": [0.5600427, 0.5459799, 0.5814246, 0.5731186], "id": 1, "result": {"TYPE_VEHICLE": {}}, "userTag": "", "changed": true, "refObjectId": []}, {"data": [0.3755, 0.5311771, 0.410698, 0.5721317], "id": 0, "result": {"TYPE_VEHICLE": {}}, "userTag": "", "changed": true, "refObjectId": []}]}}
